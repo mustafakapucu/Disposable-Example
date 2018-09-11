@@ -1,0 +1,12 @@
+F:\Projects\Disposableexample\Disposableexample\bin\Debug\Disposableexample.exe.config
+F:\Projects\Disposableexample\Disposableexample\obj\Debug\Disposableexample.csprojResolveAssemblyReference.cache
+F:\Projects\Disposableexample\Disposableexample\bin\Debug\Disposableexample.exe
+F:\Projects\Disposableexample\Disposableexample\bin\Debug\Disposableexample.pdb
+F:\Projects\Disposableexample\Disposableexample\obj\Debug\Disposableexample.exe
+F:\Projects\Disposableexample\Disposableexample\obj\Debug\Disposableexample.pdb
+C:\Users\mustafa.kapucu\Desktop\Disposableexample\Disposableexample\Disposableexample\bin\Debug\Disposableexample.exe.config
+C:\Users\mustafa.kapucu\Desktop\Disposableexample\Disposableexample\Disposableexample\obj\Debug\Disposableexample.exe
+C:\Users\mustafa.kapucu\Desktop\Disposableexample\Disposableexample\Disposableexample\obj\Debug\Disposableexample.pdb
+C:\Users\mustafa.kapucu\Desktop\Disposableexample\Disposableexample\Disposableexample\bin\Debug\Disposableexample.exe
+C:\Users\mustafa.kapucu\Desktop\Disposableexample\Disposableexample\Disposableexample\bin\Debug\Disposableexample.pdb
+C:\Users\mustafa.kapucu\Desktop\Disposableexample\Disposableexample\Disposableexample\obj\Debug\Disposableexample.csprojResolveAssemblyReference.cache
